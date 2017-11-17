@@ -80,3 +80,11 @@ C:\Users\Paul\Source\Repos\cableServicioIngProcesos\CableServicio\bin\Microsoft.
 C:\Users\Paul\Source\Repos\cableServicioIngProcesos\CableServicio\obj\Debug\CableServicio.csprojResolveAssemblyReference.cache
 C:\Users\Paul\Source\Repos\cableServicioIngProcesos\CableServicio\obj\Debug\CableServicio.dll
 C:\Users\Paul\Source\Repos\cableServicioIngProcesos\CableServicio\obj\Debug\CableServicio.pdb
+C:\Users\Paul\Source\Repos\cableServicioIngProcesos\CableServicio\obj\Debug\CableServicio.Migrations.InitialMigration.resources
+C:\Users\Paul\Source\Repos\cableServicioIngProcesos\CableServicio\obj\Debug\CableServicio.csproj.GenerateResource.Cache
+C:\Users\Paul\Source\Repos\cableServicioIngProcesos\CableServicio\obj\Debug\CableServicio.Migrations.ClientesMigration.resources
+C:\Users\Paul\Source\Repos\cableServicioIngProcesos\CableServicio\obj\Debug\CableServicio.Migrations.RegistroSolicitudMigration.resources
+C:\Users\Paul\Source\Repos\cableServicioIngProcesos\CableServicio\obj\Debug\CableServicio.Migrations.RegistroDeServicioMigration.resources
+C:\Users\Paul\Source\Repos\cableServicioIngProcesos\CableServicio\obj\Debug\CableServicio.Migrations.AppUsersMigration.resources
+C:\Users\Paul\Source\Repos\cableServicioIngProcesos\CableServicio\obj\Debug\CableServicio.Migrations.InventarioMigration.resources
+C:\Users\Paul\Source\Repos\cableServicioIngProcesos\CableServicio\obj\Debug\CableServicio.Migrations.RegistroTrabajoMigration.resources
