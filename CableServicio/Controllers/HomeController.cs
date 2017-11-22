@@ -15,14 +15,14 @@ namespace CableServicio.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Somos una compañía en crecimiento que ofrece servicios de cable de la más alta calidad.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "UABC Tijuana, Facultad de Ciencias Químicas e Ingeniería.";
 
             return View();
         }
