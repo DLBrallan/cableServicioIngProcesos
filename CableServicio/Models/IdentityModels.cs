@@ -26,11 +26,11 @@ namespace CableServicio.Models
             : base("DefaultConnection", throwIfV1Schema: false)
         {
         }
-        DbSet<RegistroTrabajo> RegistrosDeTrabajo { get; set; }
-        DbSet<InventarioMaterial> InventarioMateriales { get; set; }
-        DbSet<Material> CatalogoMateriales { get; set; }
-        DbSet<Cliente> Clientes { get; set; }
-        DbSet<Tecnico> Tecnicos { get; set; }
+        public DbSet<RegistroTrabajo> RegistrosDeTrabajo { get; set; }
+        public DbSet<InventarioMaterial> InventarioMateriales { get; set; }
+        public DbSet<Material> CatalogoMateriales { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Tecnico> Tecnicos { get; set; }
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();

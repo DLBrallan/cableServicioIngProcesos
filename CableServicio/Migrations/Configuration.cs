@@ -1,5 +1,6 @@
 namespace CableServicio.Migrations
 {
+    using Models;
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
@@ -14,7 +15,12 @@ namespace CableServicio.Migrations
 
         protected override void Seed(CableServicio.Models.ApplicationDbContext context)
         {
-            //  This method will be called after migrating to the latest version.
+            context.CatalogoMateriales.AddOrUpdate(
+                m => m.Descripcion,
+                new Material {  Descripcion = "Desarmador" }
+                
+                );
+                //  This method will be called after migrating to the latest version.
 
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
             //  to avoid creating duplicate seed data. E.g.

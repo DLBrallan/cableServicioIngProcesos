@@ -15,7 +15,7 @@ namespace CableServicio.Models
         public string Descripcion { get; set; }
 
 
-       public InventarioMaterial InventarioMaterial { get; set; }
+        public InventarioMaterial InventarioMaterial { get; set; }
 
     }
 }
